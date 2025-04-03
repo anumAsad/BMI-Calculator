@@ -28,9 +28,6 @@ pip install streamlit
 streamlit run app.py
 ```
 
-## 📸 Screenshot
-![BMI Calculator](https://via.placeholder.com/600x300?text=BMI+Calculator+App)
-
 ## 🔗 Live Demo
 Check out the live version here: [BMI Calculator](https://bmi-calculator-yedgzlreabrhsmnpzptneh.streamlit.app/)
 
